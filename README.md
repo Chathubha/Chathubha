@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Chathubha</h1>
 
-<!--
-**Chathubha/Chathubha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Final-year CS Undergraduate | Full-stack Learner | MERN Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Studying Computer Science at **University of Jaffna**
+- 🌱 Currently learning **React & Express.js**
+- 🧩 Building full-stack projects without database first (learning flow)
+- 🎯 Goal: Become a **Full-Stack Developer**
+- 💬 Ask me about **React**, **Express.js**, **Git**, **VS Code**
+
+---
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,html,js,css,tailwind,react,express,mysql,postman,nodejs,java,py,cpp,vscode&perline=14" />
+  
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chathubha&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathubha&layout=compact&theme=react" />
+</p>
+
+
+---
+
+### 📫 Connect With Me
+📧 Email: **2021sp008@univ.jfn.ac.lk**
+
+---
+
+<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
