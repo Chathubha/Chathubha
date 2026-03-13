@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 - 🎓 Studying Computer Science at **University of Jaffna**
 - 🌱 Currently learning **React & Express.js**
-- 🧩 Building full-stack projects without database first (learning flow)
+- 🧩 Building full-stack projects using the MERN Stack
 - 🎯 Goal: Become a **Full-Stack Developer**
 - 💬 Ask me about **React**, **Express.js**, **Git**, **VS Code**
 
@@ -17,7 +17,7 @@
 
 ### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,html,js,css,tailwind,react,express,mysql,postman,nodejs,java,py,cpp,vscode&perline=14" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,html,js,css,react,express,mysql,postman,nodejs,java,py,cpp,vscode&perline=14" />
   
 ---
 
@@ -32,6 +32,8 @@
 
 ### 📫 Connect With Me
 📧 Email: **2021sp008@univ.jfn.ac.lk**
+
+💼 LinkedIn : https://www.linkedin.com/in/cv1008
 
 ---
 
