@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Chathubha Vithanagamage</h1>
 
 <p align="center">
-  <b>Final-year CS Undergraduate | Full-stack Learner | MERN Enthusiast</b>
+  <b>Final-year CS Undergraduate | Full-stack Developer | MERN Enthusiast</b>
 </p>
 
 ---
